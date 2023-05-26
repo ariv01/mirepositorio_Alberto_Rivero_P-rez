@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
 public class Ejercicio1 {
-//cambio de alumno2 Alberto Rivero Pérez
+//cambios de alumno 2 Alberto Rivero Pérez
+//cambios de alumno2 Alberto Rivero Pérez
 	// Constantes
 	private static final int EDAD_MAXIMA = 100;
 	private static final int LIMITE_NINNO = 12;
